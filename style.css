@@ -1,0 +1,17 @@
+p{
+    color: #aa1818;
+}
+p:hover{
+    color: green
+}
+.bold-red{
+    color: blue;
+    font-weight: bold;
+}
+.big{
+    font-size: 2rem;
+
+}
+#second-item{
+    padding-left: 2rem;
+}
